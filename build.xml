@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE project>
+
+<project name="audit-portlet" basedir="." default="deploy">
+	<import file="/home/doubled/workspace-liferay/liferay-plugins-sdk-6.2/portlets/build-common-portlet.xml" />
+</project>
